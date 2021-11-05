@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @zeroeast593
+- 👀 I’m interested in Motion planning and control of manipulator
+- 🌱 I’m currently learning force and compliance control of manipulator
